@@ -1,3 +1,3 @@
 # CodeWars
 
-.This file contains katas from CodeWars.com. Enjoy!
+This file contains katas from CodeWars.com. Enjoy!
